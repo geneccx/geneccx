@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[https://bento.me/gc](https://bento.me/gc)
+
 <!--
 **geneccx/geneccx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
